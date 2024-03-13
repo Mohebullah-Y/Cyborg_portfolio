@@ -37,9 +37,7 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0 md:text-[15px] text-center xl:text-left"
             >
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Corrupti, iure aliquid itaque ex corporis error libero velit
-              ipsum.
+             As a frontend developer and wordpress developer I deplied several valuable project to my customer 
             </motion.p>
           </div>
 

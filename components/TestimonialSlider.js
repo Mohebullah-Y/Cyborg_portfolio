@@ -1,25 +1,25 @@
 // testimonial data
 const testimonialData = [
   {
-    image: "/avatar1.png",
+    image: "/avatar1.jpg",
     name: "Ahmad Fahim Soltani",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Mohebullah Yousofi is a professional web developer he made business website and management website for my business",
   },
   {
-    image: "/avatar2.png",
+    image: "/avatar2.jpg",
     name: "Sayed Navid Azimi",
     position: "ceo",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "I know Mohebullah Yousofi for about three years he is a hardworking developer and software engineer",
   },
   {
-    image: "/avatar3.png",
+    image: "/avatar3.jpg",
     name: "Mohammad Hojjat Mehdizadah",
     position: "Team Leader",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Mohebullah Yousofi is my cooperator and colleague for two years he is enthusiastic developer of our company",
   },
 ];
 

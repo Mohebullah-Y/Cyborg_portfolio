@@ -40,7 +40,7 @@ const Home = () => {
             animate="show"
             exit="hidden"
           >
-           "Passionate software engineering student at Herat University, specializing in WordPress development. Skilled in customizing and fixing WordPress projects bugs, with a strong ability to bring creative ideas to life through tailored solutions. Proficient in frontend design to enhance user experience and engagement."
+           Passionate software engineering student at Herat University, specializing in WordPress development. Skilled in customizing and fixing WordPress projects bugs, with a strong ability to bring creative ideas to life through tailored solutions. Proficient in frontend design to enhance user experience and engagement.
           </motion.p>
 
           {/* btn */}
